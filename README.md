@@ -1,5 +1,5 @@
 # SoupPvP
-Super simple Soup Plugin which is too easy to make.
+Soup Plugin
 
 # Usage
 Right-click soup for heal
